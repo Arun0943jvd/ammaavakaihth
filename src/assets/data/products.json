@@ -1,0 +1,806 @@
+{
+  "powders": [
+    {
+      "id": "P001",
+      "name": "Turmeric Powder",
+      "category": "Powders",
+      "price": 120,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Pure homemade turmeric powder."
+    },
+    {
+      "id": "P002",
+      "name": "Red Chilli Powder",
+      "category": "Powders",
+      "price": 140,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Spicy red chilli powder made from premium mirchis."
+    },
+    {
+      "id": "P003",
+      "name": "Kandi Karam Powder",
+      "category": "Powders",
+      "price": 150,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Traditional kandi karam with homemade spices."
+    },
+    {
+      "id": "P004",
+      "name": "Kobbarai Karam Powder",
+      "category": "Powders",
+      "price": 160,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Coconut based karam powder with authentic taste."
+    },
+    {
+      "id": "P005",
+      "name": "Kakarakaya Karam Powder",
+      "category": "Powders",
+      "price": 155,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.4,
+      "desc": "Healthy bitter gourd karam powder."
+    },
+    {
+      "id": "P006",
+      "name": "Munagaku Karam Powder",
+      "category": "Powders",
+      "price": 160,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Drumstick leaves karam powder."
+    },
+    {
+      "id": "P007",
+      "name": "Nalla Karam Powder",
+      "category": "Powders",
+      "price": 150,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Spicy and flavorful nalla karam."
+    },
+    {
+      "id": "P008",
+      "name": "Pudina Karam Powder",
+      "category": "Powders",
+      "price": 150,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Mint flavored karam powder."
+    },
+    {
+      "id": "P009",
+      "name": "Karivepaku Powder",
+      "category": "Powders",
+      "price": 160,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Curry leaves powder rich in aroma."
+    },
+    {
+      "id": "P010",
+      "name": "Velluli Karam Powder (Garlic)",
+      "category": "Powders",
+      "price": 170,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Authentic garlic karam powder."
+    },
+    {
+      "id": "P011",
+      "name": "Instant Chutney Powder",
+      "category": "Powders",
+      "price": 140,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Instant chutney powder for daily meals."
+    },
+    {
+      "id": "P012",
+      "name": "Instant Upma Powder",
+      "category": "Powders",
+      "price": 100,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.4,
+      "desc": "Quick and easy instant upma mix."
+    },
+    {
+      "id": "P013",
+      "name": "Instant Idli Powder (Minapa, Ragi, Mixed)",
+      "category": "Powders",
+      "price": 120,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Instant idli mix with multiple varieties."
+    },
+    {
+      "id": "P014",
+      "name": "Instant Dosa Powder (Minapa, Ragi, Pesara, Mixed)",
+      "category": "Powders",
+      "price": 130,
+      "weight": "250g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Instant dosa mix for quick breakfast."
+    },
+    {
+      "id": "P015",
+      "name": "Dry Fruit Powder (Milk & Snacks)",
+      "category": "Powders",
+      "price": 200,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Healthy dry fruit powder."
+    },
+    {
+      "id": "P016",
+      "name": "Jeera Powder",
+      "category": "Powders",
+      "price": 90,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Fragrant and fresh cumin powder."
+    },
+    {
+      "id": "P017",
+      "name": "Dhaniya Powder",
+      "category": "Powders",
+      "price": 95,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Pure coriander powder."
+    },
+    {
+      "id": "P018",
+      "name": "Rasam Powder",
+      "category": "Powders",
+      "price": 110,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Authentic South Indian rasam powder."
+    },
+    {
+      "id": "P019",
+      "name": "Sambar Powder",
+      "category": "Powders",
+      "price": 120,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Traditional sambar powder."
+    },
+    {
+      "id": "P020",
+      "name": "Garam Masala Powder",
+      "category": "Powders",
+      "price": 140,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Blend of Indian spices."
+    },
+    {
+      "id": "P021",
+      "name": "Biryani Masala Powder",
+      "category": "Powders",
+      "price": 180,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Special biryani masala for rich flavor."
+    },
+    {
+      "id": "P022",
+      "name": "Curry Powder",
+      "category": "Powders",
+      "price": 130,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Spicy curry powder."
+    },
+    {
+      "id": "P023",
+      "name": "Ginger & Garlic Paste",
+      "category": "Powders",
+      "price": 80,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Fresh ginger garlic paste."
+    },
+    {
+      "id": "P024",
+      "name": "Coconut Powder",
+      "category": "Powders",
+      "price": 150,
+      "weight": "200g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Finely grated coconut powder."
+    }
+  ],
+
+  "pickles": [
+    {
+      "id": "PK001",
+      "name": "Allam Pickle",
+      "category": "Pickles",
+      "price": 220,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Ginger pickle with spicy flavors."
+    },
+    {
+      "id": "PK002",
+      "name": "Gongura Pickle",
+      "category": "Pickles",
+      "price": 250,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Authentic gongura pickle."
+    },
+    {
+      "id": "PK003",
+      "name": "Kakarakaya Pickle",
+      "category": "Pickles",
+      "price": 230,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Bitter gourd pickle with traditional spices."
+    },
+    {
+      "id": "PK004",
+      "name": "Kothimeera Pickle",
+      "category": "Pickles",
+      "price": 240,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Fresh coriander pickle."
+    },
+    {
+      "id": "PK005",
+      "name": "Lemon Pickle",
+      "category": "Pickles",
+      "price": 200,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Tangy and spicy lemon pickle."
+    },
+    {
+      "id": "PK006",
+      "name": "Mango Pickle",
+      "category": "Pickles",
+      "price": 260,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Homemade mango pickle."
+    },
+    {
+      "id": "PK007",
+      "name": "Pandu Mirchi Gongura Pickle",
+      "category": "Pickles",
+      "price": 260,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Special gongura combined with pandu mirchi."
+    },
+    {
+      "id": "PK008",
+      "name": "Pandu Mirchi Pickle",
+      "category": "Pickles",
+      "price": 240,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Red chilli pickle."
+    },
+    {
+      "id": "PK009",
+      "name": "Pudina Pickle",
+      "category": "Pickles",
+      "price": 210,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Mint pickle with fresh aroma."
+    },
+    {
+      "id": "PK010",
+      "name": "Telangana Special Allam-Mango Pickle",
+      "category": "Pickles",
+      "price": 280,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Spicy Telangana-style ginger mango pickle."
+    },
+    {
+      "id": "PK011",
+      "name": "Tomato Pickle",
+      "category": "Pickles",
+      "price": 200,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Delicious tomato pickle."
+    },
+    {
+      "id": "PK012",
+      "name": "Usirikaya Pickle",
+      "category": "Pickles",
+      "price": 230,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Amla pickle with spices."
+    },
+    {
+      "id": "PK013",
+      "name": "Boneless Chicken Pickle",
+      "category": "Pickles",
+      "price": 350,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Homemade boneless chicken pickle."
+    },
+    {
+      "id": "PK014",
+      "name": "Chicken Pickle",
+      "category": "Pickles",
+      "price": 330,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Spicy chicken pickle."
+    },
+    {
+      "id": "PK015",
+      "name": "Mutton Pickle",
+      "category": "Pickles",
+      "price": 400,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Premium mutton pickle."
+    },
+    {
+      "id": "PK016",
+      "name": "Gongura Mutton Pickle",
+      "category": "Pickles",
+      "price": 420,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Mutton pickle blended with gongura."
+    },
+    {
+      "id": "PK017",
+      "name": "Prawn Pickle",
+      "category": "Pickles",
+      "price": 380,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Delicious prawn pickle."
+    },
+    {
+      "id": "PK018",
+      "name": "Gongura Prawn Pickle",
+      "category": "Pickles",
+      "price": 390,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Unique gongura prawn pickle."
+    },
+    {
+      "id": "PK019",
+      "name": "Gongura Chicken Pickle",
+      "category": "Pickles",
+      "price": 360,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Chicken pickle with gongura."
+    },
+    {
+      "id": "PK020",
+      "name": "Karivepaku Pickle",
+      "category": "Pickles",
+      "price": 240,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Curry leaf pickle."
+    }
+  ],
+
+  "dry_items": [
+    {
+      "id": "D001",
+      "name": "Fish - Nettallu",
+      "category": "Dry Items",
+      "price": 550,
+      "weight": "1kg",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Dried Nettallu fish."
+    },
+    {
+      "id": "D002",
+      "name": "Fish - Koramenu",
+      "category": "Dry Items",
+      "price": 600,
+      "weight": "1kg",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Dried Koramenu fish."
+    },
+    {
+      "id": "D003",
+      "name": "Fish - Vanchiram",
+      "category": "Dry Items",
+      "price": 750,
+      "weight": "1kg",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Premium dried Vanchiram fish."
+    },
+    {
+      "id": "D004",
+      "name": "Fish - Savadalu",
+      "category": "Dry Items",
+      "price": 700,
+      "weight": "1kg",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Quality dried Savadalu fish."
+    },
+    {
+      "id": "D005",
+      "name": "Prawns - Pottu Royya",
+      "category": "Dry Items",
+      "price": 850,
+      "weight": "1kg",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Sun-dried Pottu Royya prawns."
+    },
+    {
+      "id": "D006",
+      "name": "Prawns - Pedda Royya",
+      "category": "Dry Items",
+      "price": 950,
+      "weight": "1kg",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Large premium dried prawns."
+    }
+  ],
+
+  "sweets": [
+    {
+      "id": "S001",
+      "name": "Ariselu",
+      "category": "Sweets",
+      "price": 180,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Traditional Andhra Ariselu."
+    },
+    {
+      "id": "S002",
+      "name": "Sunnunda (Bellam & Sugar)",
+      "category": "Sweets",
+      "price": 160,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Healthy protein-rich Sunnunda."
+    },
+    {
+      "id": "S003",
+      "name": "Chalimidi",
+      "category": "Sweets",
+      "price": 150,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Traditional sweet made with rice flour."
+    },
+    {
+      "id": "S004",
+      "name": "Boondhi Chekki",
+      "category": "Sweets",
+      "price": 180,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Crispy boondhi sweet."
+    },
+    {
+      "id": "S005",
+      "name": "Gavvalu",
+      "category": "Sweets",
+      "price": 140,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Crunchy sweet gavvalu."
+    },
+    {
+      "id": "S006",
+      "name": "Kajjikayalu",
+      "category": "Sweets",
+      "price": 190,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Special homemade kajjikayalu."
+    },
+    {
+      "id": "S007",
+      "name": "Kaju Chekki",
+      "category": "Sweets",
+      "price": 250,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Premium cashew sweet."
+    },
+    {
+      "id": "S008",
+      "name": "Nuvvula Chekki",
+      "category": "Sweets",
+      "price": 200,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Sweet made with sesame seeds."
+    },
+    {
+      "id": "S009",
+      "name": "Nuvvula Laddu",
+      "category": "Sweets",
+      "price": 180,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Soft laddus made from sesame."
+    },
+    {
+      "id": "S010",
+      "name": "Palli Chekki",
+      "category": "Sweets",
+      "price": 180,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Peanut-based sweet."
+    },
+    {
+      "id": "S011",
+      "name": "Raggi Laddu",
+      "category": "Sweets",
+      "price": 160,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Healthy ragi laddus."
+    },
+    {
+      "id": "S012",
+      "name": "Rose Flowers",
+      "category": "Sweets",
+      "price": 150,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Special rose-flavored sweet."
+    },
+    {
+      "id": "S013",
+      "name": "Boondhi Laddu",
+      "category": "Sweets",
+      "price": 180,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.9,
+      "desc": "Traditional boondi laddu."
+    },
+    {
+      "id": "S014",
+      "name": "Kobbari Laddu",
+      "category": "Sweets",
+      "price": 160,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Coconut laddus with jaggery."
+    },
+    {
+      "id": "S015",
+      "name": "Rava Laddu",
+      "category": "Sweets",
+      "price": 150,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Soft and tasty rava laddus."
+    },
+    {
+      "id": "S016",
+      "name": "Kaja",
+      "category": "Sweets",
+      "price": 190,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Crispy layered sweet."
+    },
+    {
+      "id": "S017",
+      "name": "Kova-Kobbari Laddu",
+      "category": "Sweets",
+      "price": 200,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Milk and coconut laddus."
+    }
+  ],
+
+  "hot_items": [
+    {
+      "id": "H001",
+      "name": "Murukkulu",
+      "category": "Hot Items",
+      "price": 120,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Crunchy homemade murukkulu."
+    },
+    {
+      "id": "H002",
+      "name": "Chekkalu",
+      "category": "Hot Items",
+      "price": 130,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Traditional crispy chekkalu."
+    },
+    {
+      "id": "H003",
+      "name": "Boondhi",
+      "category": "Hot Items",
+      "price": 100,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Fresh boondhi snack."
+    },
+    {
+      "id": "H004",
+      "name": "Ribbon Pakoda",
+      "category": "Hot Items",
+      "price": 140,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Spicy ribbon pakoda."
+    },
+    {
+      "id": "H005",
+      "name": "Namkin",
+      "category": "Hot Items",
+      "price": 110,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.5,
+      "desc": "Crunchy namkeen mix."
+    },
+    {
+      "id": "H006",
+      "name": "Chekodi",
+      "category": "Hot Items",
+      "price": 140,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Round crispy chekodi."
+    },
+    {
+      "id": "H007",
+      "name": "Attukulu Mixture",
+      "category": "Hot Items",
+      "price": 120,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Spicy flattened rice mixture."
+    },
+    {
+      "id": "H008",
+      "name": "Kaju Masala",
+      "category": "Hot Items",
+      "price": 300,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.8,
+      "desc": "Cashews mixed with masala."
+    },
+    {
+      "id": "H009",
+      "name": "Palli Pakodi",
+      "category": "Hot Items",
+      "price": 130,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.6,
+      "desc": "Spicy peanut pakodi."
+    },
+    {
+      "id": "H010",
+      "name": "Palli Masala",
+      "category": "Hot Items",
+      "price": 140,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Masala coated peanuts."
+    },
+    {
+      "id": "H011",
+      "name": "Nuvvulu Chekodi",
+      "category": "Hot Items",
+      "price": 150,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Sesame flavored chekodi."
+    },
+    {
+      "id": "H012",
+      "name": "Papu Chekodi",
+      "category": "Hot Items",
+      "price": 150,
+      "weight": "500g",
+      "img": "",
+      "rating": 4.7,
+      "desc": "Dal flavored crispy chekodi."
+    }
+  ]
+}
